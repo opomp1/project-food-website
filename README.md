@@ -1,2 +1,2 @@
 Responsive Food Website
-Click Here to view the project: https://github.com/opomp1/project-food-website
+Click Here to view the project: https://project-food-website.vercel.app/
