@@ -23,7 +23,7 @@ const HeadlineCards = () => {
       <div className="rounded-xl relative ">
         {/* Overlay */}
         <div className="absolute w-full h-full bg-black/50 rounded-xl text-white">
-          <p className="font-bold text-2xl px-2 pt-4">Sun's Out, BOBO's Out</p>
+          <p className="font-bold text-2xl px-2 pt-4">Ultimate Tanya Burgers</p>
           <p className="px-2">Through 8/26</p>
           <button className="border-white bg-white text-black mx-2 absolute bottom-4">
             Order Now
@@ -39,7 +39,7 @@ const HeadlineCards = () => {
       <div className="rounded-xl relative ">
         {/* Overlay */}
         <div className="absolute w-full h-full bg-black/50 rounded-xl text-white">
-          <p className="font-bold text-2xl px-2 pt-4">We Deliver Desserts</p>
+          <p className="font-bold text-2xl px-2 pt-4">Miss Ay Dessert</p>
           <p className="px-2">Through 8/26</p>
           <button className="border-white bg-white text-black mx-2 absolute bottom-4">
             Order Now

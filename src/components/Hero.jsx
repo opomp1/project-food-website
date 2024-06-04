@@ -13,9 +13,14 @@ const Hero = () => {
             <span className="text-orange-500">Foods</span> Delivered
           </h1>
         </div>
-        <img
+        {/* <img
           className="w-full max-h-[500px] object-cover"
           src="https://images.pexels.com/photos/5718015/pexels-photo-5718015.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          alt="/"
+        /> */}
+        <img
+          className="w-full max-h-[500px] object-cover"
+          src="https://freshchoice.imgix.net/assets/Recipes/Traditional-Chunky-Pepper-Beef-Pies.jpg"
           alt="/"
         />
       </div>
